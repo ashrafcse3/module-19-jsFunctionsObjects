@@ -2,9 +2,7 @@
 
 function makeLowercase(name) {
     // making a lowercase functino in js
-
-
-    // return name.toLowerCase();
+    return name.toLowerCase();
 }
 
 var randomName = 'How aRe YoU';
